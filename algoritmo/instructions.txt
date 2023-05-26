@@ -1,0 +1,13 @@
+
+
+1 - criar um array vazio
+
+2 - iterar sobre o array que possui os elementos
+
+3 - iterar a cada indice 0 do array
+
+4 - ao iterar o primeiro, transfira para o array vazio
+
+5 - ao transferir, seguir para a proxima iteraçao do primeiro elemento do array de elementos
+
+6 - ao iterar o primeiro elemento, averiguar se o indice 0 atual é maior que o indice 0 do segundo array
